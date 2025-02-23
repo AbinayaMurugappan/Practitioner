@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>92c9f50b-ef91-41ad-93b0-a736f1a250ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='OrangeHRM Logo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;OrangeHRM Logo&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>41175d73-1e2d-4a51-a98d-e0da6fa6da66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/public/_resources/themes/orangehrm/dist/images/OrangeHRM_Logo.svg</value>
+      <webElementGuid>2c3151ff-5ef5-4a4c-9f01-0125bfa09f27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>OrangeHRM Logo</value>
+      <webElementGuid>27e6c954-ab10-47cc-a961-84b1ac5dc8c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;OsUpgradeLandingPage&quot;]/nav[@class=&quot;navbar navbar-expand-lg navbar-light fixed-top&quot;]/div[@class=&quot;container-fluid&quot;]/a[@class=&quot;navbar-brand nav-logo&quot;]/img[1]</value>
+      <webElementGuid>60f776d7-e3a8-47cb-b621-6d2a366d634a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>15px</value>
+      <webElementGuid>90deee8e-e9d9-42ea-bcef-ec925b9c7b30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='OrangeHRM Logo']</value>
+      <webElementGuid>4a3cd1cf-e404-4a44-aeb5-5de2a7c410a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>558721a4-6a1e-45b8-917e-f956515166b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/public/_resources/themes/orangehrm/dist/images/OrangeHRM_Logo.svg' and @alt = 'OrangeHRM Logo']</value>
+      <webElementGuid>8f84a136-bbc0-45a2-9bcb-e7c504cd722d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='leader spring white']</value>
+      <webElementGuid>e2672cb8-5a7f-4aa8-9f9a-c72a2836f4f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div/div[2]/div/div/img</value>
+      <webElementGuid>64e7d8e7-b80b-4872-a9a0-6651fc20bdd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/Uploads/leader-spring-white-v2.png.webp' and @alt = 'leader spring white']</value>
+      <webElementGuid>bb129660-f944-417d-8678-f7160caa6240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Arrow Icon']</value>
+      <webElementGuid>b301cb10-0d87-4445-83f4-59b5580ec217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/img</value>
+      <webElementGuid>a516a9b5-dfdd-4f01-8735-25bbe7e3ea47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Arrow Icon' and @src = 'https://www.orangehrm.com/assets/Uploads/OS-Landing-Page/bulletin.png']</value>
+      <webElementGuid>de4ed4b5-4f52-455c-aab8-2184b90c4673</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

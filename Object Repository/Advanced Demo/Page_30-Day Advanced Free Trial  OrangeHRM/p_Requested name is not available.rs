@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Requested name is not available</name>
+   <tag></tag>
+   <elementGuidId>5ed5eefd-623d-45d9-9df8-acc6701699ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='Form_getForm_error']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Form_getForm_error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f1a66e36-b406-495f-bc1a-36b8d201e308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Form_getForm_error</value>
+      <webElementGuid>fb6d1dce-caff-440a-8f8f-b888d8f2a655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>message error-message</value>
+      <webElementGuid>6726af10-db72-4d82-8988-2d8a89b5c661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Requested name is not available. </value>
+      <webElementGuid>89a1ba32-df41-499d-ae01-555556b75df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Form_getForm_error&quot;)</value>
+      <webElementGuid>8fd6d76e-bf7c-44f0-856e-4f6e7b547e1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='Form_getForm_error']</value>
+      <webElementGuid>42adaaf3-8e2b-4f76-baa7-372a03ae1fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='Form_getForm']/p</value>
+      <webElementGuid>3f7ba795-920c-4d60-9949-d897e25d2a71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Just Need a Few Details.'])[1]/following::p[1]</value>
+      <webElementGuid>7a969420-54f2-4ced-9ee9-a6f57d5d1278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revolutionize Your Human Resource Management Experience!'])[1]/following::p[6]</value>
+      <webElementGuid>2c60cda5-ebb6-4ec7-923c-cff348ffc4da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name for the Trial System'])[1]/preceding::p[1]</value>
+      <webElementGuid>74a37aa3-7ea9-4c35-942d-7b26769290ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please type your username without any spaces (i.e johndoe).'])[1]/preceding::p[1]</value>
+      <webElementGuid>0deca037-4570-41cd-9693-ce4d631b0870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Requested name is not available.']/parent::*</value>
+      <webElementGuid>b3c89fb8-6955-4983-b9a5-2f3b4001bcf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/p</value>
+      <webElementGuid>92bb2fa3-cfa7-446d-afea-8621b8700c5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'Form_getForm_error' and (text() = 'Requested name is not available. ' or . = 'Requested name is not available. ')]</value>
+      <webElementGuid>065214e2-d6fb-4c7d-b368-749f68582646</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

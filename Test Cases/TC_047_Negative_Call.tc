@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_047_Negative_Call</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3fd3e4fb-cd38-4fb6-b5b3-03e7e05cee2c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_005_Leave List</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30b4efa9-c008-467f-9a0b-c7547727d1ab</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>16ec4d2a-0670-4afa-b477-1f8606af6604</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Thomas'</defaultValue>
+      <description></description>
+      <id>16ec4d2a-0670-4afa-b477-1f8606af6604</id>
+      <masked>false</masked>
+      <name>EmployeeName</name>
+   </variable>
+</TestCaseEntity>

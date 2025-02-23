@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_009_My Timesheet</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ae4e459-dbd6-4682-b555-890cff88b725</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a971f182-a7cf-4ffc-959a-3f4491795b69</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Comments From The Variable Objects'</defaultValue>
+      <description></description>
+      <id>a971f182-a7cf-4ffc-959a-3f4491795b69</id>
+      <masked>false</masked>
+      <name>Comments</name>
+   </variable>
+</TestCaseEntity>

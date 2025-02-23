@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_64_StudioAssist_Upgrade</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b57c436-625e-4819-826e-fea56bc4f538</testCaseGuid>
+</TestCaseEntity>

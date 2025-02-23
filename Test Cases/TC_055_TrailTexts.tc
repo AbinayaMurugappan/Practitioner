@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_055_TrailTexts</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8f4ae54d-eb54-4ee7-944a-a0fc17a0a41e</testCaseGuid>
+</TestCaseEntity>

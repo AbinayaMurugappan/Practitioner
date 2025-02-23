@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_59_StudioAssist_Punch Out</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eee8fcfe-52a1-4eb7-8817-44a5bcdd4f72</testCaseGuid>
+</TestCaseEntity>

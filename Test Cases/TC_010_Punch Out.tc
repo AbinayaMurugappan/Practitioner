@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_010_Punch Out</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e516b241-928e-4ca0-a22e-0d74b374739d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8b5fb5bc-7ee2-4bd7-a640-f633598d5450</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Data From The variable'</defaultValue>
+      <description></description>
+      <id>8b5fb5bc-7ee2-4bd7-a640-f633598d5450</id>
+      <masked>false</masked>
+      <name>Notes</name>
+   </variable>
+</TestCaseEntity>

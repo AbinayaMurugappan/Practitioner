@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_58_StudioAssist_Timesheets</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>714dc2fb-1be1-4b0b-ac0f-7a9ebef377d1</testCaseGuid>
+</TestCaseEntity>

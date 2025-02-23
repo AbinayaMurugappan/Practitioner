@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_56_StudioAssist_OrangeHRM</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d333f82-d098-454c-aba6-3cb447451e99</testCaseGuid>
+</TestCaseEntity>

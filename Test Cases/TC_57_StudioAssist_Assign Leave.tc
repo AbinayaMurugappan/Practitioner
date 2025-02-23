@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_57_StudioAssist_Assign Leave</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c5b36c6-714c-4a9d-9d72-4ac73ada3d77</testCaseGuid>
+</TestCaseEntity>

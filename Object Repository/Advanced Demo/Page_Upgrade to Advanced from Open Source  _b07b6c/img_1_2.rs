@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2</name>
+   <tag></tag>
+   <elementGuidId>4a86fd63-24c4-4b65-9c2a-4a57d1fa879a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='linkedin logo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;linkedin logo&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>923f1d72-ac60-4468-9cdb-9fccb03f1a74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/public/_resources/themes/orangehrm/dist/images/social-icon/linkedin.png</value>
+      <webElementGuid>6f7b5e51-057e-4b79-99ad-f43534563ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>linkedin logo</value>
+      <webElementGuid>6a948145-163c-4eed-9225-5527ce4e4136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;OsUpgradeLandingPage&quot;]/footer[1]/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container footer-bottom-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-3 col-md-3 col-sm-4 footer-bottom-right&quot;]/div[@class=&quot;social-link&quot;]/ul[1]/li[2]/a[1]/div[@class=&quot;social-icon&quot;]/img[1]</value>
+      <webElementGuid>baed2db0-701d-4052-9238-e4f303b5e0fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='linkedin logo']</value>
+      <webElementGuid>5ff9735c-6077-49fd-a86a-297c8da6e22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div/img</value>
+      <webElementGuid>a4a83406-47ef-4eb4-b0fc-cfeee1ad2e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/public/_resources/themes/orangehrm/dist/images/social-icon/linkedin.png' and @alt = 'linkedin logo']</value>
+      <webElementGuid>372e59ea-02ac-4e69-83c6-167e2501b59c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='leader spring white']</value>
+      <webElementGuid>44b0d696-8a0c-490f-97e9-60f16a825809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div/div[2]/div/div/img</value>
+      <webElementGuid>ccd8fee1-36db-45ad-ac71-3c35f52ff87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/Uploads/leader-spring-white-v2.png.webp' and @alt = 'leader spring white']</value>
+      <webElementGuid>50f13aa2-d137-4ef4-ac22-42589cfb9ae0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>4532ea36-3726-40a8-9fef-ad4567eb9971</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='facebook logo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;facebook logo&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>10925efe-5a49-4f64-b6c9-9c4d481b311d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>facebook logo</value>
+      <webElementGuid>790e0ef5-b22a-41ba-923f-dc97886b52ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/public/_resources/themes/orangehrm/dist/images/social-icon/facebook.png</value>
+      <webElementGuid>f549b951-5286-45f5-8587-b0f13816575d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;OsUpgradeLandingPage&quot;]/footer[1]/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container footer-bottom-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-3 col-md-3 col-sm-4 footer-bottom-right&quot;]/div[@class=&quot;social-link&quot;]/ul[1]/li[1]/a[1]/div[@class=&quot;social-icon&quot;]/img[1]</value>
+      <webElementGuid>db76c615-01a8-41e9-8c10-7b18810d0582</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='facebook logo']</value>
+      <webElementGuid>8fc62d46-37e1-4356-bef1-f8439bdcca69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/img</value>
+      <webElementGuid>a81defe6-af38-4353-b3e9-ff8828b0401f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/public/_resources/themes/orangehrm/dist/images/social-icon/facebook.png' and @alt = 'facebook logo']</value>
+      <webElementGuid>87d43fd5-8ec1-4247-a09e-53302437d81b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='demo-submit']/div/div[2]/div[2]/div/img</value>
+      <webElementGuid>18abf096-5423-422e-bb16-22faa6a3cd6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Upgrade to Advanced from Open Source']</value>
+      <webElementGuid>73ee9b0a-84b0-4e3c-9d5b-50211e118187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img</value>
+      <webElementGuid>74ba9279-dace-4280-8a3c-a8aa5927c35f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Upgrade to Advanced from Open Source' and @src = 'https://www.orangehrm.com/assets/Uploads/OS-Landing-Page/login-form.webp']</value>
+      <webElementGuid>238bffb0-3846-4dad-b049-261e97caed69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

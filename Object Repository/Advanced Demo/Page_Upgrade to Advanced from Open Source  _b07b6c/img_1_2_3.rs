@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>78c3eb19-2b1d-4b9d-8a09-4d96a95fc1e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='youtube logo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;youtube logo&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>099e83b0-1d7f-4dc6-b0ec-8b375fb96456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>youtube logo</value>
+      <webElementGuid>a4d7d85c-318e-4558-8406-008c340a94e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20px</value>
+      <webElementGuid>5dc5062a-d096-4acb-ad47-e25f30304f7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/public/_resources/themes/orangehrm/dist/images/social-icon/youtube.png</value>
+      <webElementGuid>7a2f98e5-0482-4e4a-af02-79a6a57d78a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;OsUpgradeLandingPage&quot;]/footer[1]/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container footer-bottom-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-3 col-md-3 col-sm-4 footer-bottom-right&quot;]/div[@class=&quot;social-link&quot;]/ul[1]/li[3]/a[1]/div[@class=&quot;social-icon&quot;]/img[1]</value>
+      <webElementGuid>97c34bcc-fc5b-486e-825f-712afb6d7519</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='youtube logo']</value>
+      <webElementGuid>8f97f28d-d733-4ba4-ad47-62c07a4203ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/div/img</value>
+      <webElementGuid>fd5fddd5-33df-4510-98ef-edb3c598b5ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/public/_resources/themes/orangehrm/dist/images/social-icon/youtube.png' and @alt = 'youtube logo']</value>
+      <webElementGuid>33f6adea-c874-4d50-aff8-0a3a956b0880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='cross icon']</value>
+      <webElementGuid>db2d1914-2caa-4462-9794-d741fcd261fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/img</value>
+      <webElementGuid>68049b8a-b805-407e-9357-d97bec8eb471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'cross icon' and @src = 'https://www.orangehrm.com/assets/Uploads/OS-Landing-Page/cross.svg']</value>
+      <webElementGuid>e76c4dab-26aa-406f-88fa-8ae159b756a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

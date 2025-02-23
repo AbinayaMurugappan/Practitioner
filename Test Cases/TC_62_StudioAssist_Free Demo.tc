@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_62_StudioAssist_Free Demo</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4d7a520-7ff9-41b8-bdde-c1ed6ec5f0ea</testCaseGuid>
+</TestCaseEntity>

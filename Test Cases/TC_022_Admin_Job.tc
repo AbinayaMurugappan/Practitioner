@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_022_Admin_Job</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>197e4e89-aac1-41d5-a79b-48966d768856</testCaseGuid>
+</TestCaseEntity>

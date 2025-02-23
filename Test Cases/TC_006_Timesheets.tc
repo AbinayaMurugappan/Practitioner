@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_006_Timesheets</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b609a888-3b3e-4385-9be9-2d74787cd599</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dd079be2-72ce-4cef-b015-ad31e562e5e3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Thomas'</defaultValue>
+      <description></description>
+      <id>dd079be2-72ce-4cef-b015-ad31e562e5e3</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+</TestCaseEntity>

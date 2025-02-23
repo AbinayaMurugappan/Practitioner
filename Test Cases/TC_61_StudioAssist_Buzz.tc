@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_61_StudioAssist_Buzz</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>008de7b2-e200-428f-8086-03c94cd7858c</testCaseGuid>
+</TestCaseEntity>

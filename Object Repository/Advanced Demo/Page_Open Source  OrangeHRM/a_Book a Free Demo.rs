@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Book a Free Demo</name>
+   <tag></tag>
+   <elementGuidId>b58da893-6471-4242-af05-67f29c45d63c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='os-landing-page']/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-ohrm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f549bad9-c727-401d-8c3a-56183e87de43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/es/open-source/upgrade-to-advanced#demo-submit</value>
+      <webElementGuid>4fe20523-8af9-4ce6-86a5-4c2a79b7a153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-ohrm</value>
+      <webElementGuid>667a7cb6-8d92-4373-96f3-8d6b32911edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Book a Free Demo</value>
+      <webElementGuid>ac54938f-b7e5-4636-bf47-402a5ae06d73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;os-landing-page&quot;)/div[@class=&quot;container landing-page-slider-section&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-12&quot;]/div[@class=&quot;slider-image-title&quot;]/a[@class=&quot;btn btn-ohrm&quot;]</value>
+      <webElementGuid>2cce45a7-d8a3-4c78-b61d-63a19cb32bd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='os-landing-page']/div/div/div/div/a</value>
+      <webElementGuid>a466c117-aa9d-41ea-ab8c-561920c1ba8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Book a Free Demo')]</value>
+      <webElementGuid>fc46d6b2-6a6e-4428-93a6-7c595debf431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upgrade to'])[1]/following::a[1]</value>
+      <webElementGuid>b972c409-743e-4bf8-999f-a2a25d9abe3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='With OrangeHRM'])[1]/preceding::a[1]</value>
+      <webElementGuid>ed151fe4-d052-46c3-815c-f91eaa380696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Book a Free Demo']/parent::*</value>
+      <webElementGuid>adb4f2ed-075f-4e3b-b797-74162b501d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/es/open-source/upgrade-to-advanced#demo-submit')]</value>
+      <webElementGuid>6d385a4e-a26c-46cb-98f1-2a46c5822076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a</value>
+      <webElementGuid>4191f97f-0e1f-4017-bbc3-263c6f130e0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/es/open-source/upgrade-to-advanced#demo-submit' and (text() = 'Book a Free Demo' or . = 'Book a Free Demo')]</value>
+      <webElementGuid>294c8fed-78f2-440f-b6a1-2512f6b0b1f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
